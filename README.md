@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vgsmarcus
+- 👋 Hi, I’m Marcus Gama
 - 👀 I’m interested in Learn to code
 - 🌱 I’m currently learning using Git and GitHub
 - 📫 How to reach me: gamamarcus27@gmail.com 
